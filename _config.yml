@@ -12,7 +12,11 @@ tagline:          'A Jekyll theme'
 description:       
 prominent sidebar: 
 url:              http://ianjwhite.github.io/blog
+<<<<<<< HEAD
 baseurl:          
+=======
+baseurl:          ianjwhite.github.io/blog
+>>>>>>> origin/master
 
 author:
   name:           'Ian White'
@@ -24,4 +28,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           
+  repo:           https://github.com/poole/hyde
