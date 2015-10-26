@@ -11,12 +11,8 @@ title:            Teaching Notes
 tagline:          'A Jekyll theme'
 description:       
 prominent sidebar: 
-url:              http://ianjwhite.github.io/blog
-<<<<<<< HEAD
-baseurl:          
-=======
-baseurl:          ianjwhite.github.io/blog
->>>>>>> origin/master
+url:              http://ianjwhite.github.io
+baseurl:         /blog
 
 author:
   name:           'Ian White'
